@@ -1,4 +1,4 @@
-package dio.padroesprojeto.Repositories;
+package dio.padroesprojeto.repositories;
 
 import dio.padroesprojeto.models.Cliente;
 import org.springframework.data.repository.CrudRepository;

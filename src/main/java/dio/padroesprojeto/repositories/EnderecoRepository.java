@@ -1,7 +1,6 @@
-package dio.padroesprojeto.Repositories;
+package dio.padroesprojeto.repositories;
 
 import dio.padroesprojeto.models.Endereco;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

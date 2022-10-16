@@ -1,6 +1,6 @@
 package dio.padroesprojeto.services.imp;
 
-import dio.padroesprojeto.Repositories.EnderecoRepository;
+import dio.padroesprojeto.repositories.EnderecoRepository;
 import dio.padroesprojeto.models.Endereco;
 import dio.padroesprojeto.services.EnderecoService;
 import org.springframework.beans.factory.annotation.Autowired;

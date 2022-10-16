@@ -1,7 +1,7 @@
 package dio.padroesprojeto.services.imp;
 
-import dio.padroesprojeto.Repositories.ClienteRepository;
-import dio.padroesprojeto.Repositories.EnderecoRepository;
+import dio.padroesprojeto.repositories.ClienteRepository;
+import dio.padroesprojeto.repositories.EnderecoRepository;
 import dio.padroesprojeto.models.Cliente;
 import dio.padroesprojeto.models.Endereco;
 import dio.padroesprojeto.services.ClienteService;
