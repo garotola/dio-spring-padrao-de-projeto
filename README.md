@@ -1,0 +1,1 @@
+# Spring Boot com Singleton, Facade e Strategy
